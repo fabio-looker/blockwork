@@ -168,7 +168,7 @@ async function webUI(schema){
 										resolve(req.body)
 									}
 							}catch(e){
-								console.error("Error while receiving config from web UI:",e.message)
+								console.error("Error while receiving config from web UI: ",e.message)
 								res.send(500)
 							}
 					})

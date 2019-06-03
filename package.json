@@ -36,6 +36,6 @@
     "minimist": "^1.2.0",
     "promise-readable": "^2.1.0",
     "prompt": "^1.0.0",
-    "restify": "^6.3.4"
+    "restify": "^8.3.2"
   }
 }
